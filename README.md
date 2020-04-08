@@ -33,7 +33,7 @@ Now I get a formatted prompt that shows me the last 2 segments of the current di
 
 I used to do this with node, but node's got a perceptible startup lag, even on a really fast machine. Along comes QuickJS. This is a really neat project, and command-line utilities seem like a perfect application.
 
-I got a little help from [twardoch/svgop](https://github.com/twardoch/svgop) in dealing with stdin, since the OS interop doens't work like node. [Alesandro Nadlin](https://odino.org/playing-with-quickjs/) also has a helpful intro on compiling binaries.
+I got a little help from [twardoch/svgop](https://github.com/twardoch/svgop) in dealing with stdin, since the OS interop doens't work like node. [Alessandro Nadalin](https://odino.org/playing-with-quickjs/) also has a helpful intro on compiling binaries.
 
 ## building
 
